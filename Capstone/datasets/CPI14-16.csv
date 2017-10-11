@@ -1,0 +1,182 @@
+,Country/Territory,WB_Code,Region,CPI_2014_Score,CPI_2016_Score,CPI_2015_Score
+0,Denmark,DNK,EU,92.0,90.0,91.0
+1,New Zealand,NZL,AP,91.0,90.0,88.0
+2,Finland,FIN,EU,89.0,89.0,90.0
+3,Sweden,SWE,EU,87.0,88.0,89.0
+4,Norway,NOR,EU,86.0,85.0,87.0
+5,Switzerland,CHE,EU,86.0,86.0,86.0
+6,Singapore,SGP,AP,84.0,84.0,85.0
+7,Netherlands,NLD,EU,83.0,83.0,87.0
+8,Luxembourg,LUX,EU,82.0,81.0,81.0
+9,Canada,CAN,AM,81.0,82.0,83.0
+10,Australia,AUS,AP,80.0,79.0,79.0
+11,Germany,DEU,EU,79.0,81.0,81.0
+12,Iceland,ISL,EU,79.0,78.0,79.0
+13,United Kingdom,GBR,EU,78.0,81.0,81.0
+14,Belgium,BEL,EU,76.0,77.0,77.0
+15,Japan,JPN,AP,76.0,72.0,75.0
+16,Barbados,BRB,AM,74.0,61.0,
+17,Hong Kong,HKG,AP,74.0,77.0,75.0
+18,Ireland,IRL,EU,74.0,73.0,75.0
+19,United States,USA,AM,74.0,74.0,76.0
+20,Chile,CHL,AM,73.0,66.0,70.0
+21,Uruguay,URY,AM,73.0,71.0,74.0
+22,Austria,AUT,EU,72.0,75.0,76.0
+23,Bahamas,BHS,AM,71.0,66.0,
+24,United Arab Emirates,ARE,ME,70.0,66.0,70.0
+25,Estonia,EST,EU,69.0,70.0,70.0
+26,France,FRA,EU,69.0,69.0,70.0
+27,Qatar,QAT,ME,69.0,61.0,71.0
+28,Saint Vincent and the Grenadines,VCT,AM,67.0,60.0,
+29,Bhutan,BTN,AP,65.0,65.0,65.0
+30,Botswana,BWA,AF,63.0,60.0,63.0
+31,Cyprus,CYP,EU,63.0,55.0,61.0
+32,Portugal,PRT,EU,63.0,62.0,63.0
+33,Puerto Rico,PRI,AM,63.0,,
+34,Poland,POL,EU,61.0,62.0,62.0
+35,Taiwan,TWN,AP,61.0,61.0,62.0
+36,Israel,ISR,ME,60.0,64.0,61.0
+37,Spain,ESP,EU,60.0,58.0,58.0
+38,Dominica,DMA,AM,58.0,59.0,
+39,Lithuania,LTU,EU,58.0,59.0,61.0
+40,Slovenia,SVN,EU,58.0,61.0,60.0
+41,Cape Verde,CPV,AF,57.0,59.0,55.0
+42,Korea (South),KOR,AP,55.0,53.0,56.0
+43,Latvia,LVA,EU,55.0,57.0,55.0
+44,Malta,MLT,EU,55.0,55.0,56.0
+45,Seychelles,SYC,AF,55.0,,55.0
+46,Costa Rica,CRI,AM,54.0,58.0,55.0
+47,Hungary,HUN,EU,54.0,48.0,51.0
+48,Mauritius,MUS,AF,54.0,54.0,53.0
+49,Georgia,GEO,EE,52.0,57.0,52.0
+50,Malaysia,MYS,AP,52.0,49.0,50.0
+51,Samoa,WSM,AP,52.0,,
+52,Czech Republic,CZE,EU,51.0,55.0,56.0
+53,Slovakia,SVK,EU,50.0,51.0,51.0
+54,Bahrain,BHR,ME,49.0,43.0,51.0
+55,Jordan,JOR,ME,49.0,48.0,53.0
+56,Lesotho,LSO,AF,49.0,39.0,44.0
+57,Namibia,NAM,AF,49.0,52.0,53.0
+58,Rwanda,RWA,AF,49.0,54.0,54.0
+59,Saudi Arabia,SAU,ME,49.0,46.0,52.0
+60,Croatia,HRV,EU,48.0,49.0,51.0
+61,Ghana,GHA,AF,48.0,43.0,47.0
+62,Cuba,CUB,AM,46.0,47.0,47.0
+63,Oman,OMN,ME,45.0,45.0,45.0
+64,The FYR of Macedonia,MKD,EE,45.0,37.0,42.0
+65,Turkey,TUR,EE,45.0,41.0,42.0
+66,Kuwait,KWT,ME,44.0,41.0,49.0
+67,South Africa,ZAF,AF,44.0,45.0,44.0
+68,Brazil,BRA,AM,43.0,40.0,38.0
+69,Bulgaria,BGR,EU,43.0,41.0,41.0
+70,Greece,GRC,EU,43.0,44.0,46.0
+71,Italy,ITA,EU,43.0,47.0,44.0
+72,Romania,ROM,EU,43.0,48.0,46.0
+73,Senegal,SEN,AF,43.0,45.0,44.0
+74,Swaziland,SWZ,AF,43.0,,
+75,Montenegro,MON,EE,42.0,45.0,44.0
+76,Sao Tome and Principe,STP,AF,42.0,46.0,42.0
+77,Serbia,SCG,EE,41.0,42.0,40.0
+78,Tunisia,TUN,ME,40.0,41.0,38.0
+79,Benin,BEN,AF,39.0,36.0,37.0
+80,Bosnia and Herzegovina,BIH,EE,39.0,39.0,38.0
+81,El Salvador,SLV,AM,39.0,36.0,39.0
+82,Mongolia,MNG,AP,39.0,38.0,39.0
+83,Morocco,MAR,ME,39.0,37.0,36.0
+84,Burkina Faso,BFA,AF,38.0,42.0,38.0
+85,India,IND,AP,38.0,40.0,38.0
+86,Jamaica,JAM,AM,38.0,39.0,41.0
+87,Peru,PER,AM,38.0,35.0,36.0
+88,Philippines,PHL,AP,38.0,35.0,35.0
+89,Sri Lanka,LKA,AP,38.0,36.0,37.0
+90,Thailand,THA,AP,38.0,35.0,38.0
+91,Trinidad and Tobago,TTO,AM,38.0,35.0,39.0
+92,Zambia,ZMB,AF,38.0,38.0,38.0
+93,Armenia,ARM,EE,37.0,33.0,35.0
+94,Colombia,COL,AM,37.0,37.0,37.0
+95,Egypt,EGY,ME,37.0,34.0,36.0
+96,Gabon,GAB,AF,37.0,35.0,34.0
+97,Liberia,LBR,AF,37.0,37.0,37.0
+98,Panama,PAN,AM,37.0,38.0,39.0
+99,Algeria,DZA,ME,36.0,34.0,36.0
+100,China,CHN,AP,36.0,40.0,37.0
+101,Suriname,SUR,AM,36.0,45.0,36.0
+102,Bolivia,BOL,AM,35.0,33.0,34.0
+103,Mexico,MEX,AM,35.0,30.0,35.0
+104,Moldova,MDA,EE,35.0,30.0,33.0
+105,Niger,NER,AF,35.0,35.0,34.0
+106,Argentina,ARG,AM,34.0,36.0,32.0
+107,Djibouti,DJI,AF,34.0,30.0,34.0
+108,Indonesia,IDN,AP,34.0,37.0,36.0
+109,Albania,ALB,EE,33.0,39.0,36.0
+110,Ecuador,ECU,AM,33.0,31.0,32.0
+111,Ethiopia,ETH,AF,33.0,34.0,33.0
+112,Kosovo,LWI,EE,33.0,36.0,33.0
+113,Malawi,MWI,AF,33.0,31.0,31.0
+114,Côte d´Ivoire,CIV,AF,32.0,34.0,32.0
+115,Dominican Republic,DOM,AM,32.0,31.0,33.0
+116,Guatemala,GTM,AM,32.0,28.0,28.0
+117,Mali,MLI,AF,32.0,32.0,35.0
+118,Belarus,BLR,EE,31.0,40.0,32.0
+119,Mozambique,MOZ,AF,31.0,27.0,31.0
+120,Sierra Leone,SLE,AF,31.0,30.0,29.0
+121,Tanzania,TZA,AF,31.0,32.0,30.0
+122,Vietnam,VNM,AP,31.0,33.0,31.0
+123,Guyana,GUY,AM,30.0,34.0,29.0
+124,Mauritania,MRT,AF,30.0,27.0,31.0
+125,Azerbaijan,AZE,EE,29.0,30.0,29.0
+126,Gambia,GMB,AF,29.0,26.0,28.0
+127,Honduras,HND,AM,29.0,30.0,31.0
+128,Kazakhstan,KAZ,EE,29.0,29.0,28.0
+129,Nepal,NPL,AP,29.0,29.0,27.0
+130,Pakistan,PAK,AP,29.0,32.0,30.0
+131,Togo,TGO,AF,29.0,32.0,32.0
+132,Madagascar,MDG,AF,28.0,26.0,28.0
+133,Nicaragua,NIC,AM,28.0,26.0,27.0
+134,Timor-Leste,TLS,AP,28.0,35.0,28.0
+135,Cameroon,CMR,AF,27.0,26.0,27.0
+136,Iran,IRN,ME,27.0,29.0,27.0
+137,Kyrgyzstan,KGZ,EE,27.0,28.0,28.0
+138,Lebanon,LBN,ME,27.0,28.0,28.0
+139,Nigeria,NGA,AF,27.0,28.0,26.0
+140,Russia,RUS,EE,27.0,29.0,29.0
+141,Comoros,COM,AF,26.0,24.0,26.0
+142,Uganda,UGA,AF,26.0,25.0,25.0
+143,Ukraine,UKR,EE,26.0,29.0,27.0
+144,Bangladesh,BGD,AP,25.0,26.0,25.0
+145,Guinea,GIN,AF,25.0,27.0,25.0
+146,Kenya,KEN,AF,25.0,26.0,25.0
+147,Laos,LAO,AP,25.0,30.0,25.0
+148,Papua New Guinea,PNG,AP,25.0,28.0,25.0
+149,Central African Republic,CAF,AF,24.0,20.0,24.0
+150,Paraguay,PRY,AM,24.0,30.0,27.0
+151,Congo Republic,COG,AF,23.0,20.0,23.0
+152,Tajikistan,TJK,EE,23.0,25.0,26.0
+153,Chad,TCD,AF,22.0,20.0,22.0
+154,Democratic Republic of the Congo,COD,AF,22.0,21.0,22.0
+155,Cambodia,KHM,AP,21.0,21.0,21.0
+156,Myanmar,MMR,AP,21.0,28.0,22.0
+157,Zimbabwe,ZWE,AF,21.0,22.0,21.0
+158,Burundi,BDI,AF,20.0,20.0,21.0
+159,Syria,SYR,ME,20.0,13.0,18.0
+160,Angola,AGO,AF,19.0,18.0,15.0
+161,Guinea-Bissau,GNB,AF,19.0,16.0,17.0
+162,Haiti,HTI,AM,19.0,20.0,17.0
+163,Venezuela,VEN,AM,19.0,17.0,17.0
+164,Yemen,YEM,ME,19.0,14.0,18.0
+165,Eritrea,ERI,AF,18.0,18.0,18.0
+166,Libya,LBY,ME,18.0,14.0,16.0
+167,Uzbekistan,UZB,EE,18.0,21.0,19.0
+168,Turkmenistan,TKM,EE,17.0,22.0,18.0
+169,Iraq,IRQ,ME,16.0,17.0,16.0
+170,South Sudan,SSD,AF,15.0,11.0,
+171,Afghanistan,AFG,AP,12.0,15.0,11.0
+172,Sudan,SDN,ME,11.0,14.0,12.0
+173,Korea (North),PRK,AP,8.0,12.0,8.0
+174,Somalia,SOM,AF,8.0,10.0,8.0
+175,Saint Lucia,LCA,,,60.0,
+176,Brunei,BRN,,,58.0,
+177,Grenada,GRD,,,56.0,
+178,Solomon Islands,SLB,,,42.0,
+179,Maldives,MDV,,,36.0,
+180,South Sudan,,,,,15.0

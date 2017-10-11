@@ -1,0 +1,74 @@
+GDP_Total
+Summary:GDP (current US$)
+Note:GDP at purchaser's prices is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in current U.S. dollars. Dollar figures for GDP are converted from domestic currencies using single year official exchange rates. For a few countries where the official exchange rate does not reflect the rate effectively applied to actual foreign exchange transactions, an alternative conversion factor is used.
+
+GDP_perCap
+Summary:GDP per capita (current US$)
+Note:GDP per capita is gross domestic product divided by midyear population. GDP is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in current U.S. dollars.
+
+Corr_Perc_Index
+Summary: Corruption Perception Index (0-100)
+Note: Corruption Perception Index scores and ranks countries/territories based on how corrupt a country's public sector is perceived to be. A composite index, a combination of surveys and assessments of corruption, collected by a variety of reputable institutions. (From Transparency International)
+
+Life_Expect
+Summary:Life expectancy at birth, total (years)
+Note:Life expectancy at birth indicates the number of years a newborn infant would live if prevailing patterns of mortality at the time of its birth were to stay the same throughout its life.
+
+School_Enrl
+Summary:School enrollment, primary and secondary (gross), gender parity index (GPI)
+Note:Gender parity index for gross enrollment ratio in primary and secondary education is the ratio of girls to boys enrolled at primary and secondary levels in public and private schools.
+
+Adult_Lit
+Summary: Literacy rate, adult total (% of people ages 15 and above)
+Note:Adult literacy rate is the percentage of people ages 15 and above who can both read and write with understanding a short simple statement about their everyday life.
+
+BusReg
+Summary:Start-up procedures to register a business (number)
+Note: Start-up procedures are those required to start a business, including interactions to obtain necessary permits and licenses and to complete all inscriptions, verifications, and notifications to start operations. Data are for businesses with specific characteristics of ownership, size, and type of production.
+
+Comm_Tax
+Summary:Total tax rate (% of commercial profits)
+Note: Total tax rate (% of commercial profits)
+
+Elec_Access
+Summary: Access to electricity (% of population)
+Note: Access to electricity (% of population)
+
+Elec_Consumption
+Summary: Electric power consumption (kWh per capita)
+Note: Electric power consumption (kWh per capita)
+
+ElecGen_OilGasCoal
+Summary: Electricity production from oil, gas and coal sources (% of total)
+Note: Electricity production from oil, gas and coal sources (% of total)
+
+Emissions
+Summary: CO2 emissions (metric tons per capita)
+Note: CO2 emissions (metric tons per capita)
+
+FossFuel_Cons
+Summary: Fossil fuel energy consumption (% of total)
+Note: Fossil fuel energy consumption (% of total)
+
+Inf_Mortality
+Summary: Infant mortality rate (per 1,000 live births)
+Note: Infant mortality rate (per 1,000 live births)
+
+Inflation
+Summary: Inflation of consumer prices (annual %)
+Note: Inflation of consumer prices (annual %)
+
+OreMetal_exports
+Summary: Ores and metals exports (% of mechandise exports)
+Note: Ores and metals exports (% of mechandise exports)
+
+Imp_San_Access
+Summary: Improved Sanitation facilities, urban
+Note: Improved Sanitation facilities, urban (% of urban population with access)
+
+Tech_Exports
+Summary: High-technology exports (% of manufactured exports)
+Note: High-technology exports (% of manufactured exports)
+
+
+
