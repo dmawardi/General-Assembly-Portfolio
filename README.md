@@ -5,7 +5,7 @@ Enclosed are 5 projects that were completed during the 12-week Data Science Imme
 
 Each of the projects vary on scope dependent on the skills that were being learnt at the time.  You will find that the packages and methods used for each are quite diverse.
 
-
+\n
 **Project 1: Pokemon**
 
 -Use of Python loops and data structures to create the framework for a Pokemon game
@@ -13,7 +13,7 @@ Each of the projects vary on scope dependent on the skills that were being learn
 -Python Dictionaries and lists were used to store Pokemon and Player information
 
 
-
+\n
 **Project 2: Exploratory Data Analysis**
 
 -Project 2 was split into 2 parts: 
@@ -25,7 +25,7 @@ Each of the projects vary on scope dependent on the skills that were being learn
 -Drug data was used to formulate a hypothesis test in regards to correlations between the frequency of use and overall usage of different drugs
 
 
-
+\n
 **Project 3: Modelling Housing Data**
 
 -Use of SKLearn machine learning and regression models in order to predict housing prices
