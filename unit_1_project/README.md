@@ -35,25 +35,4 @@ We will be looking for the following things:
 
 ---
 
-### Useful Resources
-
-- This draws heavily on Python concepts from the first couple days of class -- review those lectures!
-
-- Depending on which Python version you use, you may need to watch out for [unexpected division behavior](http://stackoverflow.com/questions/21316968/division-in-python-2-7-and-3-3).
-
-- For some questions, you may want to brush up on [list comprehensions](http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/). 
-
----
-
-### Project Feedback + Evaluation
-
-For all projects, students will be evaluated on a simple 3 point scale (0, 1, or 2). Instructors will use this rubric when scoring student performance on each of the core project **requirements:** 
-
-Score | Expectations
------ | ------------
-**0** | _Does not meet expectations. Try again._
-**1** | _Meets expectations. Good job._
-**2** | _Surpasses expectations. Brilliant!_
-
-
-[For more information on how we grade our DSI projects, see our project grading walkthrough.](https://git.generalassemb.ly/dsi-projects/readme/blob/master/README.md)
+(https://git.generalassemb.ly/dsi-projects/readme/blob/master/README.md)
