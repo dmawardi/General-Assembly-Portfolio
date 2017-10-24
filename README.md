@@ -5,7 +5,7 @@ Enclosed in this repository are 5 projects that were completed during the 12-wee
 
 Each of the projects vary on scope dependent on the skills that were being learnt at the time.  You will find that the packages and methods used for each are quite diverse.
 
-Skills Utilized: Python | SQL | Machine Learning | Web Scraping | Pandas | NumPy | SciKit-Learn | Classification and Regression modeling |  NLP | 
+Skills Utilized: Python | SQL | Machine Learning | Web Scraping | Pandas | NumPy | SciKit-Learn | Classification and Regression modeling |  NLP 
 
 ___
 **Project 1: Pokemon**
