@@ -21,6 +21,6 @@ __Limitations:__
 * Imputation/Removal of nulls: We removed a number of observations that contained null values greater than 3 in our imputation phase (part 2 of 3)*
 
 Assumption
-If Imputation of values greater than 20% is required (Greater than 3.6 missing values),  an observation could result in being too artificial and reduce the efficacy or application of our model
+* If Imputation of values greater than 20% is required (Greater than 3.6 missing values),  an observation could result in being too artificial and reduce the efficacy or application of our model
 
 *Dropped Haiti and all countries with greater than 3 missing values
